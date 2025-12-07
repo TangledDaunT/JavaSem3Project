@@ -1,0 +1,30 @@
+========================================
+  SQLite JDBC Driver Download
+========================================
+
+To run BankBridge, you need the SQLite JDBC driver.
+
+DOWNLOAD LINK:
+https://github.com/xerial/sqlite-jdbc/releases
+
+INSTRUCTIONS:
+1. Go to the above URL
+2. Download the latest: sqlite-jdbc-X.XX.X.X.jar
+3. Place it in this folder (lib/)
+4. Rename it to: sqlite-jdbc.jar
+
+ALTERNATIVE - Maven Repository:
+https://repo1.maven.org/maven2/org/xerial/sqlite-jdbc/
+
+RECOMMENDED VERSION:
+sqlite-jdbc-3.46.0.0.jar or newer
+
+VERIFICATION:
+After downloading, this folder should contain:
+- sqlite-jdbc.jar
+
+Then you can compile and run BankBridge!
+
+For more help, see SETUP_GUIDE.md
+
+========================================
